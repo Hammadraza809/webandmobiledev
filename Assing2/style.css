@@ -1,0 +1,39 @@
+body{
+    margin: 0 auto;
+    padding: 0px;
+    font-family: sans-serif;
+}
+.label{
+    width: 150px;
+}
+#header{
+    color: #855cd6;
+    text-align: center;
+    font-size: larger;
+}
+#registration-form{
+    color: white;
+    background-color: #855cd6;
+    font-size: small;
+    width: 50%;
+    margin: 0 auto;
+    align-items: center;
+}
+#main-table{
+    padding: 10px;
+    border: 2px solid #7547d1
+    
+}
+.center{
+    text-align: center;
+    color: purple;
+    font-size: large;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+}
+#thank{
+    color: green;
+}
+#back{
+    font-size: xx-large;
+}
